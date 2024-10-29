@@ -1,0 +1,49 @@
+{
+    "menu": [
+        {
+            "menuType": "favorite",
+            "item": [
+                {
+                    "id": "leave",
+                    "menuName": "Leave",
+                    "imageUrl": "assets/image/leave-ic.png"
+                }
+            ]
+        },
+        {
+            "menuType": "transaction",
+            "item": [
+                {
+                    "id": "probation",
+                    "menuName": "Probation",
+                    "imageUrl": "assets/image/probation-ic.png"
+                },
+                {
+                    "id": "leave",
+                    "menuName": "Leave",
+                    "imageUrl": "assets/image/leave-ic.png"
+                },
+                {
+                    "id": "dinas",
+                    "menuName": "Dinas",
+                    "imageUrl": "assets/image/dinas-ic.png"
+                },
+                {
+                    "id": "izin",
+                    "menuName": "Izin",
+                    "imageUrl": "assets/image/izin-ic.png"
+                },
+                {
+                    "id": "lembur",
+                    "menuName": "Lembur",
+                    "imageUrl": "assets/image/lembur-ic.png"
+                },
+                {
+                    "id": "service-center",
+                    "menuName": "Service Center",
+                    "imageUrl": "assets/image/service-center-ic.png"
+                }
+            ]
+        }
+    ]
+}

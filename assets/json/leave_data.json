@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "id": "cuti",
+            "title": "Cuti",
+            "startDate": "24-03-2024",
+            "endDate": "25-03-2024"
+        },
+        {
+            "id": "cuti-besar",
+            "title": "Cuti Besar",
+            "startDate": "24-03-2024",
+            "endDate": "25-03-2024"
+        },
+        {
+            "id": "ppj-cuti",
+            "title": "Perpanjangan Cuti Tahunan",
+            "startDate": "24-03-2024",
+            "endDate": ""
+        },
+        {
+            "id": "cuti-free",
+            "title": "Cuti Free",
+            "startDate": "24-03-2024",
+            "endDate": "25-03-2024"
+        },
+        {
+            "id": "cuti-tahunan",
+            "title": "Cuti Tahunan",
+            "startDate": "21-03-2024",
+            "endDate": "24-03-2024"
+        },
+        {
+            "id": "cuti-keluarga",
+            "title": "Cuti Bersama Keluarga",
+            "startDate": "24-03-2024",
+            "endDate": ""
+        }
+    ]
+}
